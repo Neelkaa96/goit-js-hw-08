@@ -1,7 +1,3 @@
-"homepage": "https://github.com/Neelkaa96/goit-js-hw-08-.git",
-"scripts": {
-  "build": "parcel build src/*.html --public-url /goit-js-hw-08-/"
-},
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
